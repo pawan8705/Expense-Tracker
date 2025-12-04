@@ -1,16 +1,27 @@
-# React + Vite
+## 🧾 Expense Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, clean, and fully responsive Expense Tracker built using React JS, Tailwind CSS, HTML, CSS, and JavaScript.
+This project helps users easily manage and track their daily expenses with a smooth UI and fast performance.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✅ Add Expenses : Add any expense with Title and Amount (₹).
+🗑 Delete Expenses : Remove any expense instantly with a single click.
+💾 Local Storage Support : All expenses are automatically saved.
+Data remains safe even after page reload.
+📊 Total Expense Calculation.
+Shows the total amount spent.
+Updates automatically when items are added or deleted.
 
-## React Compiler
+## 🎨 UI & Design
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+1. Modern and clean user interface
+2. Fully responsive for mobile, tablet, and desktop
+3. Built using Tailwind CSS for fast and consistent styling
 
-## Expanding the ESLint configuration
+## 🛠 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. React JS
+2. Tailwind CSS
+3. HTML, CSS, JavaScript
+4. LocalStorage API
